@@ -3,7 +3,7 @@
     <div class="navbar navbar-default navbar-fixed-top" role="navigation"
          style="padding-left: 30px;">
       <div class="navbar-header">
-        <span class="navbar-brand">欢迎光临爱美丽鲜花网</span>
+        <span class="navbar-brand">201900020169 吴晓宇 作业五 鲲鹏云上应用高可用部署实验</span>
       </div>
       <ul class="nav navbar-nav">
         <li><router-link to="/register" :exact="true">注册</router-link> </li>
